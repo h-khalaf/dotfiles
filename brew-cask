@@ -1,0 +1,8 @@
+tap 'homebrew/cask'
+
+cask 'spotify'
+cask 'discord'
+cask 'google-chrome'
+cask 'github'
+cask 'visual-studio-code'
+cask 'docker'

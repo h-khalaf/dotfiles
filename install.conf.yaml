@@ -1,0 +1,11 @@
+- clean: ["~"]
+
+- shell:
+    - command: ./install -c install.conf.brew.yaml
+      description: Install brew packages
+      stdin: true
+      stdout: true
+    - command: ./install -c install.conf.vscode.yaml
+      description: Install vscode extensions
+      stdin: true
+      stdout: true

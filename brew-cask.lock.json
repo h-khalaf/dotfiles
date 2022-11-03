@@ -1,0 +1,59 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/cask": {
+        "revision": "3d67bd4f0067e54bb53214e22243b96810799a79"
+      }
+    },
+    "cask": {
+      "spotify": {
+        "version": "1.1.97.962,24733a46,808",
+        "options": {
+          "full_name": "spotify"
+        }
+      },
+      "discord": {
+        "version": "0.0.269",
+        "options": {
+          "full_name": "discord"
+        }
+      },
+      "google-chrome": {
+        "version": "107.0.5304.87",
+        "options": {
+          "full_name": "google-chrome"
+        }
+      },
+      "github": {
+        "version": "3.1.2-7cd66717",
+        "options": {
+          "full_name": "github"
+        }
+      },
+      "visual-studio-code": {
+        "version": "1.73.0",
+        "options": {
+          "full_name": "visual-studio-code"
+        }
+      },
+      "docker": {
+        "version": "4.13.1,90346",
+        "options": {
+          "full_name": "docker"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "ventura": {
+        "HOMEBREW_VERSION": "3.6.8",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "2ce5a5c3c26297c0041452c3b4e0c1c8bf53f472",
+        "CLT": "14.0.0.0.1.1661618636",
+        "Xcode": "13.4.1",
+        "macOS": "13.0"
+      }
+    }
+  }
+}
