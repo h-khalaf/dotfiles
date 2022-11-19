@@ -1,6 +1,10 @@
 - clean: ["~"]
 
 - shell:
+    - command: ./install -c install.conf.git.yaml
+      description: git config
+      stdin: true
+      stdout: true
     - command: ./install -c install.conf.brew.yaml
       description: Install brew packages
       stdin: true

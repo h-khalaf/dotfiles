@@ -1,0 +1,10 @@
+[user]
+	name = h-khalaf
+	email = h.khalaf723@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

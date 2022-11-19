@@ -2,12 +2,12 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "3d67bd4f0067e54bb53214e22243b96810799a79"
+        "revision": "436d6d8f14910a48cd8615ca9efaf8f9ac37df1e"
       }
     },
     "cask": {
       "spotify": {
-        "version": "1.1.97.962,24733a46,808",
+        "version": "1.1.98.691,f759311c,1412",
         "options": {
           "full_name": "spotify"
         }
@@ -19,7 +19,7 @@
         }
       },
       "google-chrome": {
-        "version": "107.0.5304.87",
+        "version": "107.0.5304.110",
         "options": {
           "full_name": "google-chrome"
         }
@@ -31,13 +31,13 @@
         }
       },
       "visual-studio-code": {
-        "version": "1.73.0",
+        "version": "1.73.1",
         "options": {
           "full_name": "visual-studio-code"
         }
       },
       "docker": {
-        "version": "4.13.1,90346",
+        "version": "4.14.1,91661",
         "options": {
           "full_name": "docker"
         }
@@ -47,12 +47,12 @@
   "system": {
     "macos": {
       "ventura": {
-        "HOMEBREW_VERSION": "3.6.8",
+        "HOMEBREW_VERSION": "3.6.11",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "2ce5a5c3c26297c0041452c3b4e0c1c8bf53f472",
-        "CLT": "14.0.0.0.1.1661618636",
+        "Homebrew/homebrew-core": "8d8b986ef76c2a431d4a96cc0768c081d02d0714",
+        "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "13.4.1",
-        "macOS": "13.0"
+        "macOS": "13.0.1"
       }
     }
   }
